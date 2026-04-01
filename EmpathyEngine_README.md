@@ -22,11 +22,14 @@ Anger: Increased volume and slight pitch increase to simulate urgency and author
 
 # IV. Setup & Execution
 Install Dependencies:
+
   Bash
   pip install edge-tts transformers torch
 Run the Application:
+
   Bash
   python empathy_engine.py
+  
 Input: Enter your text at the prompt.
 
 Output: An output.mp3 file will be generated with the modulated voice.
